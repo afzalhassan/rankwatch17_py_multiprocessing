@@ -3,9 +3,6 @@
 #smtp services like mailgun. Your Script should be able to read emails, subject and message
 # from a csv file.
 
-# Hello mam there is a trouble in installing multiprocessing library
-# That's why I didn't use multiprocessing else code is working. I am still working on it.
-
 
 
 import csv                           # csv is comma separated values I read the data from csv so I import it
